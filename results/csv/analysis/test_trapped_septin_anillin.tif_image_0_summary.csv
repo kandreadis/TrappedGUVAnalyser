@@ -1,0 +1,2 @@
+image_path,image_index,n_channels,unit,data_time_analysis,membrane_perimeter,membrane_area,membrane_diameter_estimate,channel_labels,channel_colors
+data/test_trapped_septin_anillin.tif,0,4,$\mu$m,23/11/2023 22:50,93.7192993760109,369.625,29.831779517602634,Membrane;Septin;Anillin;Bright-Field,Blues;RdPu;Greens;Greys

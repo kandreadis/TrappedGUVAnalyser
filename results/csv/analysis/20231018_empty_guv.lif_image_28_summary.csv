@@ -1,0 +1,2 @@
+image_path,image_index,n_channels,unit,data_time_analysis,membrane_perimeter,membrane_area,membrane_diameter_estimate,channel_labels,channel_colors
+data/20231018_empty_guv.lif,28,2,$\mu$m,23/11/2023 22:58,120.60610217020104,998.2521789430166,38.390114654867325,Membrane;Bright-Field,Blues;Greys
